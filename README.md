@@ -12,8 +12,8 @@
 ## Table of Contents
 
 - [Usage](#usage)
-- [Project Layout](#Project Layout)
-- [Project UI](#Project UI)
+- [Project-Layout](#Project-Layout)
+- [Project-UI](#Project-UI)
 
 
 ## Installation
