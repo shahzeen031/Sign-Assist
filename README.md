@@ -9,11 +9,8 @@
 - The signers perform their gestures; the gestures are send to my AI model which translate it into understandable text language, then the converted text is send to the digital assistant API and its response is shown on the screen.
 
 
-## Table of Contents (Optional)
+## Table of Contents
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
 - [Usage](#usage)
 - [Project Layout](#Project Layout)
 - [Project UI](#Project UI)
