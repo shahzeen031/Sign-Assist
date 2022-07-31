@@ -34,7 +34,7 @@ The Frontend is Built using React and Redux.
 
 - Responsive UI is designed using the CSS framework Bootstrap.
 
-![UI](/assets/images/UI.png) ![Mobile UI](/assets/images/UI1.png)
+![UI](/Sign Assistant/assets/images/UI1.jpeg) ![Mobile UI](/assets/images/UI1.png)
 
 - Redux is a predictable state container for JavaScript apps.
 
